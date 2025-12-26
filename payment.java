@@ -5,4 +5,7 @@ public class payment {
         	System.out.println("my money");
         }
         //complete
+        public void anykind() {
+        	System.out.println("animal");
+        }
 }
