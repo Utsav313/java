@@ -12,4 +12,7 @@ public class task2 {
     public void displayInfo() {
         System.out.println("Animal Name: " + name + ", Age: " + age);
     }
+    public void name() {
+    	System.out.println("utszav");
+    }
 }
