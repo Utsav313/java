@@ -7,5 +7,7 @@ class myname{
 	public void name() {
 		System.out.println("Utsav Rijal");
 	}
-	
+	public void studentName() {
+		System.out.println("Utsav");
+	}
 }
